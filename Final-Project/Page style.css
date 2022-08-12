@@ -1,6 +1,6 @@
 html {
-    /* Setting a base font size of 10px give us easier rem calculations
-       Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+    /* La définition d'une taille de police de base de 10px nous donne des calculs rem plus faciles
+        Infos : 1rem === 10px, 1.5rem === 15px, 2rem === 20px et ainsi de suite
      */
     font-size: 10px;
   }
