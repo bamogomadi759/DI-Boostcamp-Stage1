@@ -1,4 +1,11 @@
-<style>
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');*/ 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
     div{
       background-color: red ;
         color: white;
@@ -18,4 +25,4 @@
         color: white;
         font-size: 18px;
     }
-  </style>
+  

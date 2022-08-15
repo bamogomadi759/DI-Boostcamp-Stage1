@@ -1,0 +1,34 @@
+h1 {
+    text-align: left;
+    color: blue;
+    width: bolder;
+}
+
+p {
+    background-color: deeppink;
+    text-transform: inherit;
+    font-size: larger;
+}
+
+ol {
+    background-color: aliceblue;
+    color: black;
+    list-style: upper-alpha;
+    font-size: larger;
+}
+
+table {
+    box-sizing: content-box;
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+    background-origin: border-box;
+    border-style: dashed;
+    border-width: medium;
+    column-width: auto;
+}
+
+blockquote {
+    color: white;
+    background-color: yellowgreen;
+}
