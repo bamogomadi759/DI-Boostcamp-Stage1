@@ -1,0 +1,79 @@
+p {
+    /* Exercice 1 */ 
+    background-color: chartreuse;
+    text-align: justify;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    
+    text-align: justify;
+    text-indent: 50px;
+    text-decoration: underline;
+
+
+    /* Exercice 2 */ 
+
+    padding: 2cm;
+    margin: 4cm;
+    height: fit-content;
+}
+    /* Exercice 3 */
+
+        #main{
+                height: 150px;
+                width: 60px;
+                background: blue;
+                display: inline-block;
+             
+            }
+            #main1{
+                height: 150px;
+                width: 60px;
+                background: white;
+                display: inline-block;
+             
+            }
+            #main2{
+                height: 150px;
+                width: 60px;
+                background: red;
+                display: inline-block;
+            }
+            
+            .gfg {
+                margin-left:200px;
+                font-size:42px;
+                font-weight:bold;
+                color:#009900;
+            }
+            .geeks {
+                font-size:25px;
+                margin-left:210px;
+            }
+            .main {
+                margin:50px;
+            } 
+        
+
+        /* Exercice 5 */ 
+
+        ul {
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+            #list2{
+                color: blue;
+            }
+
+            #par1 {
+                background-color: lightpink;
+                color: white;
+            } 
+            #par2 {
+                background-color: lightblue;
+                margin: 2cm;
+                padding-bottom: 2cm;
+            }
