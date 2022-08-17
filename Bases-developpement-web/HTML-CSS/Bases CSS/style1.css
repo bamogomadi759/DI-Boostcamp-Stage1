@@ -77,3 +77,18 @@ p {
                 margin: 2cm;
                 padding-bottom: 2cm;
             }
+
+
+        .parent {
+            border: 2px solid pink;
+            color: lightblue;
+            padding: 40px;
+            }
+              
+            .element {
+                border: 1px solid #000;
+                background-color: yellowgreen;
+                padding: 20px;
+                color: blue;
+                position: sticky;
+              }
